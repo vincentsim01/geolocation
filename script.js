@@ -11,3 +11,5 @@ function tunjukkanPosisi(sangPosisi){
     "longitude is:"+sangPosisi.coords.longitude;
 
 }
+
+confirm("Do you want to build a snowman")
